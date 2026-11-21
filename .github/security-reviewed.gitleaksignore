@@ -1,0 +1,58 @@
+# Proposed reviewed non-secret historical matches. Owner review required.
+# No key or password values are stored here. New/changed matches still fail.
+# javascript_runtime_key_reference_not_literal
+28f5f0f6b8244cbc24ed2da835a85998d1ed21ae:public/js/modules/app-groups.js:generic-api-key:165
+# javascript_session_storage_expression_not_literal
+2580c50fb1d2c762e6455adad6d005aa56ecba42:public/js/modules/app-server-bar.js:generic-api-key:9
+# javascript_session_storage_expression_not_literal
+2580c50fb1d2c762e6455adad6d005aa56ecba42:public/js/modules/app-server-bar.js:generic-api-key:157
+# synthetic_local_test_registration_password
+973d18039d579a4827c84a651b2ac2387f15166e:test/gradientRoles.test.js:generic-api-key:37
+# javascript_input_validation_expression_not_literal
+112f3279e8750c155dd0d3b2052e4e5e73935c5d:server.js:generic-api-key:856
+# synthetic_local_test_registration_password
+61a13b1d7face218e2952dfad349f5aef785ca7a:test/voiceRelay.test.js:generic-api-key:50
+# javascript_input_validation_expression_not_literal
+d9cae3d34644eacb9a90feaab8d47d906622715b:src/socketHandlers/users.js:generic-api-key:368
+# vendored_mediasoup_fake_transport_test_parameter
+61a13b1d7face218e2952dfad349f5aef785ca7a:public/js/vendor/mediasoup-client.js:generic-api-key:11980
+# discord_user_identifier_in_test_assertion_not_auth_secret
+e237a8d72bc121946b3d2cde885e3bc247cd8339:test/ferry.test.js:discord-client-id:95
+# discord_user_identifier_in_test_assertion_not_auth_secret
+7b7c47f66934686b492e35b3a6fa43695dfe189a:test/ferry.test.js:discord-client-id:82
+# javascript_session_storage_expression_not_literal
+69224d1300d186e2822dab33c0819b21a5ebcc8f:public/js/modules/app-platform.js:generic-api-key:765
+# javascript_session_storage_expression_not_literal
+76336b74fdc567e6e423f2bc800937d16a5e6f02:public/js/modules/app-ui.js:generic-api-key:2633
+# javascript_session_storage_expression_not_literal
+9f5da4897699299d3111147759b585d45ef4c631:public/js/modules/app-platform.js:generic-api-key:489
+# javascript_session_storage_expression_not_literal
+9f5da4897699299d3111147759b585d45ef4c631:public/js/modules/app-platform.js:generic-api-key:504
+# javascript_session_storage_expression_not_literal
+c4d5af5a5953ec39c6ae00b8471502e7ad1e73c7:public/js/modules/app-platform.js:generic-api-key:464
+# javascript_session_storage_expression_not_literal
+c4d5af5a5953ec39c6ae00b8471502e7ad1e73c7:public/js/modules/app-ui.js:generic-api-key:2417
+# javascript_session_storage_expression_not_literal
+36483d81f480578b152a2305633365c9723135b9:public/js/modules/app-platform.js:generic-api-key:438
+# javascript_session_storage_expression_not_literal
+36483d81f480578b152a2305633365c9723135b9:public/js/modules/app-platform.js:generic-api-key:492
+# javascript_session_storage_expression_not_literal
+36483d81f480578b152a2305633365c9723135b9:public/js/modules/app-platform.js:generic-api-key:522
+# javascript_session_storage_expression_not_literal
+36483d81f480578b152a2305633365c9723135b9:public/js/modules/app-platform.js:generic-api-key:851
+# javascript_session_storage_expression_not_literal
+c4c7c0ba4d9b340b5077c0c9938f3fea004cb2d4:public/js/app.js:generic-api-key:11934
+# javascript_session_storage_expression_not_literal
+c4c7c0ba4d9b340b5077c0c9938f3fea004cb2d4:public/js/app.js:generic-api-key:11988
+# javascript_session_storage_expression_not_literal
+c4c7c0ba4d9b340b5077c0c9938f3fea004cb2d4:public/js/app.js:generic-api-key:12018
+# javascript_session_storage_expression_not_literal
+c4c7c0ba4d9b340b5077c0c9938f3fea004cb2d4:public/js/app.js:generic-api-key:12347
+# javascript_session_storage_expression_not_literal
+36483d81f480578b152a2305633365c9723135b9:public/js/app.js.bak:generic-api-key:16785
+# javascript_session_storage_expression_not_literal
+36483d81f480578b152a2305633365c9723135b9:public/js/app.js.bak:generic-api-key:16839
+# javascript_session_storage_expression_not_literal
+36483d81f480578b152a2305633365c9723135b9:public/js/app.js.bak:generic-api-key:16869
+# javascript_session_storage_expression_not_literal
+36483d81f480578b152a2305633365c9723135b9:public/js/app.js.bak:generic-api-key:17198
