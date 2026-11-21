@@ -47,3 +47,10 @@ checklist-*.md
 config/
 # Local tool settings can hold commands with passwords; never commit them
 .claude/
+
+# Local secrets: templates must contain invented placeholders only.
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
